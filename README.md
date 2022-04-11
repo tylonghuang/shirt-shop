@@ -26,7 +26,7 @@ If you want to test the site with real payments:
 8. Execute `npm install` and `npm run dev` or `npm run watch`
 9. Have fun on: `localhost/<project_dir>/shirt-shop/public`
 
-## Important Commands that ease up everything
+## Important commands
 - `php artisan make:model <name> -m` - Create a DB-model + migration-file
 - `php artisan make:migration <name>` - Create a migration-file by itself
 - `php artisan make:seed <name>` - Create a template for a seeder
